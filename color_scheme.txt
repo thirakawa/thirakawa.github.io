@@ -1,0 +1,5 @@
+background: #CCCCCC
+background: #EEEEEE
+text: #222222
+emph: #6688AA
+emph: #F3AB48
