@@ -4,6 +4,25 @@
  ******************************************************************************/
 
 
+// My Color
+$hira-blue:           #576BED !default;
+$hira-blue-light:     #BCC4F8 !default;
+
+$hira-cyan:           #07BFC7 !default;
+$hira-cyan-light:     #8AF6FB !default;
+$hira-cyan-dark:      #058F95 !default;
+
+$hira-green:          #4CCE52 !default;
+$hira-orange:         #EA8533 !default;
+$hira-red:            #ED576B !default;
+$hira-purple:         #A977E5 !default;
+
+$hira-black-dark:     #414141 !default;
+$hira-black:          #515151 !default;
+$hira-gray:           #7F7F7F !default;
+$hira-white:          #ffffff !default;
+
+
 // Colors
 $red-color:           #FF3636 !default;
 $red-color-dark:      #B71C1C !default;
@@ -33,6 +52,5 @@ $black-color: #000000 !default;
 
 
 // Theme colors
-
-$code-bg-color-light:     rgba($purple-color, 0.05);
+$code-bg-color-light:     rgba($hira-blue, 0.05);
 $code-bg-color-dark:      #2c3237 !default;
