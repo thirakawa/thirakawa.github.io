@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - thirakawa
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - thirakawa/ActivityForecasting_python
+  - thirakawa/MaxEnt_IRL_trajectory_interpolation
+  - thirakawa/Defocus-aware_DirichletParticleFilter
+  - thirakawa/DengueFeverPredictionUNet

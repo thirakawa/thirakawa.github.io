@@ -2,31 +2,31 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Tsubasa Hirakawa
     - name: Date of Birth
-      value: 14th March 1879
+      value: 27th September 1989
     - name: Languages
-      value: English, German
+      value: Japanese (Native), English (Reading, writing and speaking), French (Beginner)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Information Engieering
+      institution: Graduate School of Engineering, Hiroshima University, Japan
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Ph.D. Thesis : Stabilization and Image Labeling for NBI Endoscopic Image Recognition"
+        - "Supervisors : Toru Tamaki, Laurent Najman"
+    - title: M.S. in Information Engineering
+      institution: Graduate School of Engineering, Hiroshima University, Japan
+      year: 2013
       description:
-        - Description 1.
-        - Description 2.
+        - "Supervisor : Toru Tamaki"
+    - title: B.S. in Engineering
+      institution: Department of Electrical, Computer and Systems Engineering, Faculty of Engineering, Hiroshima University, Japan
+      year: 2012
+      description:
+        - "Supervisor : Toru Tamaki"
 
 - title: Experience
   type: time_table
@@ -61,12 +61,12 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
@@ -79,19 +79,36 @@
       items: 
         - Max Planck Medal
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Computer Vision, Pattern Recognition, Machine Learning, Image Processing
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Time series analysis
+        - Image segmentations
 
-- title: Other Interests
-  type: list
+- title: Skills
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Platforms
+      items: 
+        - Linux (+10 years)
+        - Mac OS X (+10 years)
+        - Windows (Beginner)
+    - title: Programming
+      items:
+        - Python
+        - C/C++
+        - R
+        - MATLAB
+        - Unix Shell Scripting
+    - title: Other skills
+      items:
+        - Linux server adminstration
+        - LaTeX
+        - HTML/CSS
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
