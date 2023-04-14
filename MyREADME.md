@@ -7,16 +7,12 @@
 
 
 
-
-
 ## Execution
 
-最初の必要なライブラリのインストール
+### 最初の必要なライブラリのインストール
 
 `bundle install`
-
  
-ローカルでのサーバー起動
+### ローカルでのサーバー起動
 
 `bundle exec jekyll serve`
-
