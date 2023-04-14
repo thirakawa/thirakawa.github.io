@@ -3,7 +3,7 @@ layout: page
 permalink: /pub_conf_jp/
 title: Conferences (Japanese)
 description:
-years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013]
+years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012]
 nav: false
 nav_order: 2
 ---
