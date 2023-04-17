@@ -1,11 +1,6 @@
-
-
-
-
+# 使い方
 
 ## Install Ruby and Jelyll on Mac
-
-
 
 ## Execution
 
@@ -16,3 +11,7 @@
 ### ローカルでのサーバー起動
 
 `bundle exec jekyll serve`
+
+### デプロイ
+
+`bin/deploy --user`
