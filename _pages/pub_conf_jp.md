@@ -10,6 +10,13 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
+<h5>NOTE</h5>
+
+<p>
+  Here, we show publications on non-peer reviewed domestic (Japanese) conferences/symposia.<br>
+  These publications are extended abstracts excepting for a number of conferences.
+</p>
+
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
     {% bibliography -f conf_jp --template bib-jp -q @*[year={{y}}]* %}
