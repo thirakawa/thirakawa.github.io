@@ -14,7 +14,7 @@ nav_order: 2
 
 <p>
   Here, we show publications on non-peer reviewed domestic (Japanese) conferences/symposia.<br>
-  These publications are extended abstracts excepting for a number of conferences.
+  These publications are extended abstracts.
 </p>
 
 {%- for y in page.years %}
