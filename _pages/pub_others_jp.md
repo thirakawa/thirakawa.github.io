@@ -3,7 +3,7 @@ layout: page
 permalink: /pub_other_jp/
 title: Others (Japanese)
 description:
-years: [2022, 2021, 2020, 2019, 2018, 2017]
+years: [2024, 2022, 2021, 2020, 2019, 2018, 2017]
 nav: false
 nav_order: 2
 ---
