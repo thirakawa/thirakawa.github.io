@@ -1,8 +1,0 @@
-github_users:
-  - thirakawa
-
-github_repos:
-  - thirakawa/ActivityForecasting_python
-  - thirakawa/MaxEnt_IRL_trajectory_interpolation
-  - thirakawa/Defocus-aware_DirichletParticleFilter
-  - thirakawa/DengueFeverPredictionUNet
